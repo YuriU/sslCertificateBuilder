@@ -55,3 +55,11 @@ RUN chmod 644 /usr/local/share/ca-certificates/MYCA.crt && update-ca-certificate
  
  https://habr.com/ru/post/497160/
  
+ https://support.dnsimple.com/articles/what-is-ssl-san/
+ 
+ https://www.sslshopper.com/article-most-common-openssl-commands.html
+
+ https://stackoverflow.com/questions/55712535/how-to-add-a-ca-root-certificate-in-docker-image
+ 
+ https://stackoverflow.com/questions/51323637/adding-ssl-certificates-to-docker-linux-container
+ 
