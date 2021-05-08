@@ -45,3 +45,11 @@ RUN chmod 644 /usr/local/share/ca-certificates/MYCA.crt && update-ca-certificate
  ```curl https://host-machine-name```
  
  If everything is configured properly you must be able to see the web server response
+ 
+ 
+ The list of articles compiled for this project is following:
+ 
+ https://social.technet.microsoft.com/wiki/contents/articles/11510.wcf-iis-and-ssl.aspx?Sort=MostRecent&PageIndex=1
+ https://www.codeproject.com/Articles/18601/An-easy-way-to-use-certificates-for-WCF-security
+ https://habr.com/ru/post/497160/
+ 
