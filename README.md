@@ -9,4 +9,9 @@ Web - TLS certificate, issued by CA to be used by IIS
 After certificates are generated they need to be installed to windows certificate storage
 To do that, open VisualStudio Command prompt for Administrator and run following commands
 
+<code>
 certmgr -add CA.cer -s -r localmachine root
+</code>
+
+
+Open Web.pfx in explorer, and import it to localmachine my in wizzarg
